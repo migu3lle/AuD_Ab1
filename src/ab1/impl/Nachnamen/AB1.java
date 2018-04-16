@@ -16,8 +16,7 @@ public class AB1
      */
     public static SortedList newSortedList()
     {
-        // @TODO: eigene Implementierung zurückliefern
-        return null;
+        return new SortedListImpl();
     }
 
     /**
@@ -26,8 +25,7 @@ public class AB1
      */
     public static Sorter newQuickSort()
     {
-        // @TODO: eigene Implementierung zurückliefern
-        return null;
+        return new QuickSort();
     }
 
     /**

@@ -11,8 +11,8 @@ import ab1.Sorter;
 public class QuickSort implements Sorter
 {
     @Override
-    public void sort(int[] array)
-    {
+    public void sort(int[] array) {
         // @TODO
+
     }
 }
