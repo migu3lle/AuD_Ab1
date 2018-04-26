@@ -34,7 +34,7 @@ public class AB1
     public static Heap newHeap(int capacity)
     {
         // @TODO: eigene Implementierung zurückliefern
-        return null;
+        return new HeapImpl(capacity);
     }
 
     /**
@@ -44,6 +44,6 @@ public class AB1
     public static Sorter newHeapSort(int capacity)
     {
         // @TODO: eigene Implementierung zurückliefern
-        return null;
+        return new HeapImpl(capacity);
     }
 }
