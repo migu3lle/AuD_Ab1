@@ -1,4 +1,4 @@
-package ab1.impl.Nachnamen;
+package ab1.impl.Gaggl_Gundacker_Kopali;
 
 import ab1.Sorter;
 
@@ -6,7 +6,7 @@ import ab1.Sorter;
  * QuickSort-Implementierung der Sorter-Schnittstelle.
  * Verwendet das mittlere Element eines Intervalls als Pivotelement.
  *
- * @author N.N.
+ * @author Gaggl, Gundacker, Kopali
  */
 public class QuickSort implements Sorter {
 

@@ -1,4 +1,4 @@
-package ab1.impl.Nachnamen;
+package ab1.impl.Gaggl_Gundacker_Kopali;
 
 import ab1.Heap;
 import ab1.SortedList;
@@ -7,7 +7,7 @@ import ab1.Sorter;
 /**
  * Dient der Erzeugung von Implementierungen (Objekten) der vorgegebenen Interfaces.
  *
- * @author N.N.
+ * @author Gaggl, Gundacker, Kopali
  */
 public class AB1
 {

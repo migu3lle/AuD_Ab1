@@ -1,4 +1,4 @@
-package ab1.impl.Nachnamen;
+package ab1.impl.Gaggl_Gundacker_Kopali;
 
 import ab1.Heap;
 import ab1.Sorter;

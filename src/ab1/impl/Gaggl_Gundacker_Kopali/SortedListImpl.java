@@ -1,9 +1,6 @@
-package ab1.impl.Nachnamen;
+package ab1.impl.Gaggl_Gundacker_Kopali;
 
 import ab1.SortedList;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 
 /**
  * Implementierung von SortedList als einfach verkettete Liste.

@@ -1,7 +1,6 @@
 package ab1.test;
 
-import ab1.impl.Nachnamen.QuickSort;
-import org.junit.Before;
+import ab1.impl.Gaggl_Gundacker_Kopali.QuickSort;
 import org.junit.Test;
 
 import java.util.Arrays;
