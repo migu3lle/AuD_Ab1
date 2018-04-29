@@ -12,7 +12,7 @@ import org.junit.Test;
 import org.junit.rules.ExpectedException;
 import org.junit.runners.MethodSorters;
 
-import ab1.impl.Gaggl_Gundacker_Kopali.AB1;
+import ab1.impl.GagglGundackerKopali.AB1;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class Tests

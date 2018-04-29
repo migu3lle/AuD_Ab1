@@ -1,4 +1,4 @@
-package ab1.impl.Gaggl_Gundacker_Kopali;
+package ab1.impl.GagglGundackerKopali;
 
 import ab1.Sorter;
 
